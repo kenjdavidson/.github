@@ -1,2 +1,5 @@
-# .github
-Profile wide Github settings
+# Community Health Profile
+
+https://docs.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file
+
+
